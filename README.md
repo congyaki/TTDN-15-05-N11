@@ -67,6 +67,3 @@ Ngoài ra có thể thêm mổ số parameters như:
 # 4. Chạy hệ thống và cài đặt các ứng dụng cần thiết
 
 Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ để đăng nhập vào hệ thống.
-
-Hoàn tất nhé Tâm Đần
-    
